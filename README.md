@@ -1,3 +1,5 @@
+
+
 # Serverless App
 
 A **serverless application** built using AWS Lambda, API Gateway, and DynamoDB. This project demonstrates how to build a fully serverless backend with API integration and scalable data storage.
@@ -27,3 +29,9 @@ Before you begin, ensure you have the following:
 1. Clone the repository:
    ```bash
    git clone https://github.com/vishnuvardhan20-UX/serverless-app.git
+
+2. Navigate to the project directory:
+   ```bash
+   Copy code
+   cd serverless-app
+
