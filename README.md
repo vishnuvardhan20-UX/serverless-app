@@ -45,7 +45,6 @@ Before you begin, ensure you have the following:
 #### **5. Deployment Guide**
 Include the deployment steps (as mentioned earlier). Use formatting for better readability.
 
-```markdown
 ## Deployment Guide
 
 ### Prerequisites
