@@ -105,9 +105,21 @@ markdown
 #### **7. Contributing**
 Encourage collaboration if this project is open for contributions.
 
-```markdown
 ## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/vishnuvardhan20-UX/serverless-app/issues).
+
+
+#### *8.  Author and Acknowledgments**
+
+## Author
+
+**Yeluri Venkata Vishnu Vardhan**  
+- [GitHub](https://github.com/vishnuvardhan20-UX)
+- [LinkedIn](https://www.linkedin.com/in/yeluri-venkata-vishnu-vardhan2001/)
+
+## Acknowledgments
+Special thanks to:
+- AWS documentation and tutorials.
 
 
