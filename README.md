@@ -73,8 +73,28 @@ Include the deployment steps (as mentioned earlier). Use formatting for better r
    Integrate the API with your Lambda function.
 
 4.Test the API:
+
   Use Postman, cURL, or a browser to test your endpoint.
+
   Example request:
-  ```bash
   curl -X GET https://<API_ENDPOINT>
+
+
+---
+
+#### **6. API Reference**
+Provide details about your API endpoints for clarity.
+
+```markdown
+## API Reference
+
+### GET /
+- **Description**: Returns a welcome message.
+- **Response**:
+  ```json
+  {
+      "message": "Hello, world! This is a serverless app!",
+      "input": {}
+  }
+
 
