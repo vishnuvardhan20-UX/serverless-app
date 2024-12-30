@@ -32,6 +32,30 @@ Before you begin, ensure you have the following:
 
 2. Navigate to the project directory:
    ```bash
-   Copy code
    cd serverless-app
+
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+4. Edit the user_handler.py file to add your logic or test the default Lambda function
+   
+---
+
+#### **5. Deployment Guide**
+Include the deployment steps (as mentioned earlier). Use formatting for better readability.
+
+```markdown
+## Deployment Guide
+
+### Prerequisites
+- AWS account
+- AWS CLI installed and configured
+- Python 3.x installed
+
+### Steps to Deploy
+
+1. **Zip the Lambda function**:
+   ```bash
+   zip function.zip lambda/user_handler.py
 
