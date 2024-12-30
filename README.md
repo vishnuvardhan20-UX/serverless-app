@@ -117,7 +117,9 @@ Author:
 Yeluri Venkata Vishnu Vardhan
 
 GitHub (https://github.com/vishnuvardhan20-ux)
+
 LinkedIn (https://www.linkedin.com/in/yeluri-venkata-vishnu-vardhan2001/)
+
 Acknowledgments
 
 ---
