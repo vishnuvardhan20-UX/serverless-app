@@ -96,19 +96,19 @@ Provide details about your API endpoints for clarity.
 
 ---
 
-###Future Enhancements
+**Future Enhancements**:
  -Add more endpoints for CRUD operations.
  -Integrate with DynamoDB for persistent storage.
  
 ---
 
-**Contributing**
+**Contributing**:
  -Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ---
 
-**Author and Acknowledgments**
--Author
+**Author and Acknowledgments**:
+Author:
 Yeluri Venkata Vishnu Vardhan
 
 GitHub
