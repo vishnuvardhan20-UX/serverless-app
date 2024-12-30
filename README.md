@@ -96,19 +96,19 @@ Provide details about your API endpoints for clarity.
 
 ---
 
-**Future Enhancements**
- Add more endpoints for CRUD operations.
-Integrate with DynamoDB for persistent storage.
+###Future Enhancements
+ -Add more endpoints for CRUD operations.
+ -Integrate with DynamoDB for persistent storage.
  
 ---
 
 **Contributing**
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+ -Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ---
 
 **Author and Acknowledgments**
-Author
+-Author
 Yeluri Venkata Vishnu Vardhan
 
 GitHub
@@ -119,4 +119,4 @@ Acknowledgments
 
 **Special thanks to**:
 
-AWS documentation and tutorials.
+-AWS documentation and tutorials.
