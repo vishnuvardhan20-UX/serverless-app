@@ -1,22 +1,16 @@
-Navigate to the project directory:
-bash
-Copy code
-cd serverless-app
-Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Deploy the Lambda function (instructions provided in deployment_guide.md).
-API Endpoints
-GET /: Returns a welcome message.
-Future Enhancements
-Add DynamoDB integration for persistent storage.
-Extend the API to support CRUD operations.
-Author
-Yeluri Venkata Vishnu Vardhan
+# Serverless App
+A serverless application built using AWS Lambda, API Gateway, and DynamoDB.
 
-Copy code
-requirements.txt: Include any necessary dependencies (e.g., boto3 for AWS interaction).
+## Features
+- Deployed on AWS Lambda.
+- API Gateway for REST API integration.
+- DynamoDB for data storage.
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vishnuvardhan20-UX/serverless-app.git
+
 
 2. Add a Deployment Guide
 Create a new file called deployment_guide.md to explain how to deploy the app on AWS:
