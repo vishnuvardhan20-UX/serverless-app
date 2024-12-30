@@ -80,12 +80,10 @@ Include the deployment steps (as mentioned earlier). Use formatting for better r
   curl -X GET https://<API_ENDPOINT>
 
 
----
-
 #### **6. API Reference**
 Provide details about your API endpoints for clarity.
 
-```markdown
+markdown
 ## API Reference
 
 ### GET /
