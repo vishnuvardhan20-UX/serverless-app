@@ -96,28 +96,19 @@ markdown
       "input": {}
   }
 
-##**Future Enhancements**
+Future Enhancements
+Add more endpoints for CRUD operations.
+Integrate with DynamoDB for persistent storage.
+Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-- Add more endpoints for CRUD operations.
-- Integrate with DynamoDB for persistent storage.
+Author and Acknowledgments
+Author
+Yeluri Venkata Vishnu Vardhan
 
----
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/vishnuvardhan20-UX/serverless-app/issues).
-
----
-
-## Author and Acknowledgments
-
-### Author
-
-**Yeluri Venkata Vishnu Vardhan**  
-- [GitHub](https://github.com/vishnuvardhan20-UX)
-- [LinkedIn](https://www.linkedin.com/in/yeluri-venkata-vishnu-vardhan2001/)
-
-### Acknowledgments
-
+GitHub
+LinkedIn
+Acknowledgments
 Special thanks to:
-- AWS documentation and tutorials.
+
+AWS documentation and tutorials.
