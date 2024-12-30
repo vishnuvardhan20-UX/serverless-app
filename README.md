@@ -79,6 +79,7 @@ Include the deployment steps (as mentioned earlier). Use formatting for better r
   Example request:
   curl -X GET https://<API_ENDPOINT>
 
+---
 
 #### **6. API Reference**
 Provide details about your API endpoints for clarity.
@@ -94,5 +95,19 @@ markdown
       "message": "Hello, world! This is a serverless app!",
       "input": {}
   }
+
+ Future Enhancements
+Add more endpoints for CRUD operations.
+Integrate with DynamoDB for persistent storage.
+
+---
+
+#### **7. Contributing**
+Encourage collaboration if this project is open for contributions.
+
+```markdown
+## Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/vishnuvardhan20-UX/serverless-app/issues).
 
 
