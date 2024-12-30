@@ -56,6 +56,14 @@ Include the deployment steps (as mentioned earlier). Use formatting for better r
 ### Steps to Deploy
 
 1. **Zip the Lambda function**:
-   ```bash
+
    zip function.zip lambda/user_handler.py
+
+2. **Deploy the Lambda function**:
+   aws lambda create-function \
+    --function-name serverless-app \
+    --runtime python3.x \
+    --role <IAM_ROLE_ARN> \
+    --handler user_handler.lambda_handler \
+    --zip-file fileb://function.zip
 
