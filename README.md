@@ -67,3 +67,14 @@ Include the deployment steps (as mentioned earlier). Use formatting for better r
     --handler user_handler.lambda_handler \
     --zip-file fileb://function.zip
 
+3. **Create an API Gateway**:
+
+   Set up a REST API in API Gateway.
+   Integrate the API with your Lambda function.
+
+4.Test the API:
+  Use Postman, cURL, or a browser to test your endpoint.
+  Example request:
+  ```bash
+  curl -X GET https://<API_ENDPOINT>
+
