@@ -83,7 +83,6 @@ Include the deployment steps (as mentioned earlier). Use formatting for better r
 #### **6. API Reference**
 Provide details about your API endpoints for clarity.
 
-markdown
 ## API Reference
 
 ### GET /
@@ -97,21 +96,27 @@ markdown
 
 ---
 
-####**Future Enhancements**
+**Future Enhancements**
 Add more endpoints for CRUD operations.
 Integrate with DynamoDB for persistent storage.
 
-###**Contributing**
+---
+
+**Contributing**
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-###**Author and Acknowledgments**
-Author
+---
+
+**Author and Acknowledgments**
+###Author
 Yeluri Venkata Vishnu Vardhan
 
 GitHub
 LinkedIn
 Acknowledgments
 
-###**Special thanks to**:
+---
+
+**Special thanks to**:
 
 AWS documentation and tutorials.
